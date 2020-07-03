@@ -1,4 +1,10 @@
 # Progressive Web Apps - Complete Guide
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Jadhielv/first-pwa-start/blob/master/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/jadhielv/first-pwa-start)
+![GitHub stars](https://img.shields.io/github/stars/jadhielv/first-pwa-start?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jadhielv?style=social)](https://twitter.com/intent/follow?screen_name=jadhielv)
+
 This source code is part of Maximilian Schwarzmüller's "Progressive Web Apps - Complete Guide" course on udemy.com.
 
 # How to Use

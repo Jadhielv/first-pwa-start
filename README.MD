@@ -14,6 +14,14 @@ Once Node.js is installed, open your command prompt or terminal and **navigate i
 
 Finally, run `npm start` to start the development server and visit [127.0.0.1:3000/index.html](https://127.0.0.1:3000/index.html) or [192.168.1.102:3000/index.html](https://192.168.1.102:3000/index.html)  to see the running application.
 
+### Preview
+
+<br/>
+
+<div align="center">
+    <img width="694" title="iPhone X" src="public\src\assets\first_pwa.gif">
+</div>
+
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 

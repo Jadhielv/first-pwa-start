@@ -4,7 +4,7 @@
   "description": "First Progressive Web App (PWA)",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -c-1 -p 3000"
+    "start": "http-server -S -C cert.pem -o -p 3000"
   },
   "keywords": [
     "pwa",

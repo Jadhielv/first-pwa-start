@@ -19,8 +19,12 @@ Finally, run `npm start` to start the development server and visit [127.0.0.1:30
 <br/>
 
 <div align="center">
-    <img width="694" title="iPhone X" src="public\src\assets\first_pwa.gif">
+    <img width="694" title="PWA" src="public\src\assets\first_pwa.gif">
 </div>
+
+## Contact
+
+If you want to contact me you can reach me at <jadhielv@gmail.com>
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->

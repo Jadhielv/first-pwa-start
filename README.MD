@@ -12,7 +12,7 @@ You need [Node.js](https://nodejs.org) installed on your machine. Simply downloa
 
 Once Node.js is installed, open your command prompt or terminal and **navigate into this project folder**. There, run `npm install` to install all required dependencies.
 
-Finally, run `npm start` to start the development server and visit [127.0.0.1:3000/index.html](https://127.0.0.1:3000/index.html) or [192.168.1.102:3000/index.html](https://192.168.1.102:3000/index.html)  to see the running application.
+Finally, run `npm start` to start the development server and visit [https://127.0.0.1:3000/index.html](https://127.0.0.1:3000/index.html) to see the running application.
 
 ### Preview
 
